@@ -133,3 +133,7 @@ This page also carries three independent slicers - **BMI Category**, **Age Group
 ## About This Project
 
 This dashboard was built as a portfolio project to demonstrate practical skills in healthcare data analytics - data cleaning, DAX measure development, and interactive dashboard design. It uses a well-known public dataset (Pima Indians Diabetes Dataset) for demonstration purposes and is not based on real patient data from any institution.
+
+## Link to my PowerBI Service
+- Click the link below to access my powerBI service workspace
+- https://app.powerbi.com/view?r=eyJrIjoiNjRmOGRmMmEtZTgyOC00ODUxLTgxZDktNzdiNmQ3NDc4MDU1IiwidCI6IjQ4NTkyZTczLTE2OTUtNGVmMy1hYzg3LWM0ZDNjMGVhNDYzMyJ9
